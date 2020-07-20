@@ -4220,9 +4220,15 @@ body {
   }
 }
 .cid-s5j6zpc2hH H2 {
-  text-align: left;
+  text-align: center;
   color: #ff3366;
 }
 .cid-s5j6zpc2hH .card-title P {
   color: #232323;
+}
+.cid-s5j6zpc2hH .card-title {
+  text-align: left;
+}
+.cid-s5j6zpc2hH .b-descr {
+  text-align: right;
 }
